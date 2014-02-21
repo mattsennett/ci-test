@@ -26,6 +26,22 @@
       </plugin>
     </plugins>
   </build>
+  
+  <contributors>
+    <contributor>
+      <name>Matthew Sennett</name>
+      <email>matt.sennett@gmail.com</email>
+      <url></url>
+      <organization></organization>
+      <organizationUrl></organizationUrl>
+      <roles>
+        <role>applicant</role>
+      </roles>
+      <timezone>America/Eastern</timezone>
+      <properties>
+      </properties>
+    </contributor>
+  </contributors>
 
   <dependencies>
     <dependency>
